@@ -33,6 +33,4 @@ def calc_equation(a, b=0, c=0):
             print(f"S = [{x}]")
         else:
             print("A equação não tem raízes reais.")
-            
-print("Teste 1: Completa")
-calc_equation(2, -5, 3)
+        
