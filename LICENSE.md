@@ -4,7 +4,7 @@
 ```markdown
 MIT License
 
-Copyright (c) 2024 [Seu Nome]
+Copyright (c) 2024 João Pedro Pereira
 
 Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e arquivos de documentação associados (o "Software"), para lidar com o Software sem restrição, incluindo, sem limitação, os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, desde que as seguintes condições sejam atendidas:
 
